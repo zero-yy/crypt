@@ -4,7 +4,6 @@ go 1.12
 
 require (
 	cloud.google.com/go/firestore v1.1.0
-	github.com/coreos/etcd v3.3.25+incompatible // indirect
 	github.com/coreos/go-semver v0.3.0 // indirect
 	github.com/dustin/go-humanize v1.0.0 // indirect
 	github.com/gogo/protobuf v1.3.1 // indirect
