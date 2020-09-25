@@ -15,8 +15,6 @@ require (
 	github.com/hashicorp/consul/api v1.1.0
 	github.com/jonboulle/clockwork v0.2.1 // indirect
 	github.com/prometheus/client_golang v1.7.1 // indirect
-	github.com/spf13/cobra v1.0.0 // indirect
-	github.com/spf13/pflag v1.0.5 // indirect
 	github.com/tmc/grpc-websocket-proxy v0.0.0-20200427203606-3cfed13b9966 // indirect
 	go.etcd.io/etcd v3.3.25+incompatible
 	go.uber.org/zap v1.16.0 // indirect
