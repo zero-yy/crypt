@@ -6,9 +6,9 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/bketelsen/crypt/backend"
+	"github.com/zero_yy/crypt/backend"
 
-	goetcd "github.com/coreos/etcd/client"
+	goetcd "go.etcd.io/etcd"
 )
 
 type Client struct {
