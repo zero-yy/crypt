@@ -1,4 +1,4 @@
-module github.com/zero_yy/crypt
+module github.com/zero-yy/crypt
 
 go 1.12
 
@@ -25,5 +25,3 @@ require (
 )
 
 replace google.golang.org/grpc => google.golang.org/grpc v1.26.0
-
-replace github.com/coreos/bbolt => go.etcd.io/bbolt v1.3.5

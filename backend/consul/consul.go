@@ -5,7 +5,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/zero_yy/crypt/backend"
+	"github.com/zero-yy/crypt/backend"
 	"github.com/hashicorp/consul/api"
 )
 

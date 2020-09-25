@@ -1,6 +1,6 @@
 # crypt
 
-**This is a maintained fork of the abandoned [original](https://github.com/zero_yy/crypt)**
+**This is a maintained fork of the abandoned [original](https://github.com/zero-yy/crypt)**
 
 You can use crypt as a command line tool or as a configuration library:
 

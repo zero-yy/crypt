@@ -12,7 +12,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/zero_yy/crypt/config"
+	"github.com/zero-yy/crypt/config"
 )
 
 var (
@@ -49,7 +49,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/zero_yy/crypt/config"
+	"github.com/zero-yy/crypt/config"
 )
 
 var (
